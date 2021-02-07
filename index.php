@@ -42,7 +42,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <?php foreach ():?>
+                            
                             <td></td>
                             <td></td>
                             <td></td>
@@ -65,7 +65,7 @@
                                 </form>
                             </td>
                         </tr>
-                        <?php endforeach; ?>
+                        
                     </tbody>
                 </table>
 

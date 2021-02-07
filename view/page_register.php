@@ -4,7 +4,7 @@
     Page of Register <i class="fa fa-user-plus"></i>
 </h2><hr>
 
-<form action="../controller/insert_client.php" method="post">
+<form action="../controller/insert_client.php" method="POST">
 
     <div class="container">
         <div class="form-row">
@@ -17,7 +17,7 @@
 
             <div class="col-md-6">
                 Email: <i class="fa fa-envelope"></i>
-                <input type="email" class="form-control" name="email" required><br>
+                <input type="email" class="form-control" name='email' required><br>
             </div>
 
             <div class="col-md-4">

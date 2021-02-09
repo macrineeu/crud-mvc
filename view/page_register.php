@@ -32,7 +32,7 @@
 
             <div class="col-md-4">
                 TELEFONE: <i class="fab fa-whatsapp"></i>
-                <input type="text" class="form-control" name="fone" id="fone" required ><br>
+                <input type="text" class="form-control" name="phone" id="fone" required ><br>
             </div>
 
             <div class="col-md-12">
